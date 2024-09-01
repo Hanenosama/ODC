@@ -1,0 +1,28 @@
+*{
+    background-color: brown;
+}
+p{
+color: blue;
+}
+/*tare2a tania  . esm elclass */
+.para{
+ color: blueviolet;
+
+}
+/* #esm elid */
+#f{
+
+}
+body{
+    background-color: aquamarine;
+}
+/* parent da div w gwah paragraph p */
+.parent p{
+
+}
+/* div gwah div gwah p */
+.parent.div1 p{
+
+}
+/* momken ageb attribute */
+[type="text"]
